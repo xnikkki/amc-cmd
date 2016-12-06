@@ -1,5 +1,5 @@
-# AMC OCDA 
-School project for AMC about OCD patients
+# AMC eHealth 
+School project in samenwerking met het AMC
 
 ## POC
 Hoe kunnen we de beheerderskant verbeteren zodat het een handige tool wordt die therapeut en patiënt helpt met de behandeling van OCD?
