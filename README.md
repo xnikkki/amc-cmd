@@ -11,3 +11,7 @@ Hoe kunnen we de beheerderskant verbeteren zodat het een handige tool wordt die 
 ### Technische leerdoelen
 - Leren werken met SASS
 - Leren werken met Framer.js
+
+
+## Link naar code
+https://github.com/nielsdB97/CMD-OCD/tree/nikki-styling
