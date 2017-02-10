@@ -1,4 +1,4 @@
-Voor dit project heb ik voor het vak 'Maken' mij gericht op een deel van de styling van de beheerderskant van de NO2OCD app. Ik heb hierdoor niet een apart prototype, maar gewerkt op een localhost via de terminal op m'n computer. De veranderingen die ik maakte in de staging site van de website heb ik met commits doorgestuurd naar GitHub. Al deze commits zijn te vinden in de branche nikki-styling.
+Voor dit project heb ik voor het vak 'Maken' mij gericht op een deel van de styling van de beheerderskant van de NO2OCD app. Ik heb hierdoor niet een apart prototype, maar gewerkt aan de applicatie op een localhost via de terminal op mijn computer. De veranderingen die ik maakte in de staging site van de website heb ik met commits doorgestuurd naar GitHub. Al deze commits zijn te vinden in de branche nikki-styling.
 
 # Wat heb ik geleerd?
 
